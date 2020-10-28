@@ -1,0 +1,6 @@
+naam = input("Hoe heet jij?")
+print("Hallo " + naam)
+leeftijd = input("Dus " + naam + " hoe oud ben jij eigenlijk?")
+print("Oke,jij bent dus " + leeftijd + " Dat is best wel oud " + naam)
+woonplaats = input("Dat is leuk om te weten maar waar woon jij dan " + naam)
+print("Oke dus jij heet " + naam + " jij bent " + leeftijd + " jaar oud en je woont in " + woonplaats + "." + '\n' + "Dankjewel dat jij mijn vragen kon beantwoorden. i will initiate self destruct.")
